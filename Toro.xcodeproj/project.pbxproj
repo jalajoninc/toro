@@ -12,6 +12,9 @@
 		9E6E8A85205EA53D00153532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E6E8A83205EA53D00153532 /* Main.storyboard */; };
 		9E6E8A87205EA53D00153532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E6E8A86205EA53D00153532 /* Assets.xcassets */; };
 		9E6E8A8A205EA53D00153532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E6E8A88205EA53D00153532 /* LaunchScreen.storyboard */; };
+		9E6E8A95205EA76500153532 /* chester.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E6E8A92205EA76500153532 /* chester.xcassets */; };
+		9E6E8A96205EA76500153532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E6E8A93205EA76500153532 /* Assets.xcassets */; };
+		9E6E8A97205EA76500153532 /* whouse.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E6E8A94205EA76500153532 /* whouse.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		9E6E8A86205EA53D00153532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E6E8A89205EA53D00153532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E6E8A8B205EA53D00153532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E6E8A92205EA76500153532 /* chester.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = chester.xcassets; sourceTree = "<group>"; };
+		9E6E8A93205EA76500153532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9E6E8A94205EA76500153532 /* whouse.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = whouse.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +44,7 @@
 		9E6E8A73205EA53D00153532 = {
 			isa = PBXGroup;
 			children = (
+				9E6E8A91205EA76500153532 /* icons */,
 				9E6E8A7E205EA53D00153532 /* Toro */,
 				9E6E8A7D205EA53D00153532 /* Products */,
 			);
@@ -62,6 +69,16 @@
 				9E6E8A8B205EA53D00153532 /* Info.plist */,
 			);
 			path = Toro;
+			sourceTree = "<group>";
+		};
+		9E6E8A91205EA76500153532 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				9E6E8A92205EA76500153532 /* chester.xcassets */,
+				9E6E8A93205EA76500153532 /* Assets.xcassets */,
+				9E6E8A94205EA76500153532 /* whouse.xcassets */,
+			);
+			path = icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +142,10 @@
 			files = (
 				9E6E8A8A205EA53D00153532 /* LaunchScreen.storyboard in Resources */,
 				9E6E8A87205EA53D00153532 /* Assets.xcassets in Resources */,
+				9E6E8A95205EA76500153532 /* chester.xcassets in Resources */,
 				9E6E8A85205EA53D00153532 /* Main.storyboard in Resources */,
+				9E6E8A97205EA76500153532 /* whouse.xcassets in Resources */,
+				9E6E8A96205EA76500153532 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
