@@ -1,0 +1,456 @@
+{
+  "Appetizers" : {
+    "California Roll" : {
+      "ds" : "Yayoi",
+      "dscr" : "カリフォルニアロール \n แคลิฟอร์เนียไข่กุ้ง ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/California%20Roll.jpg",
+      "icond" : "2018.02.19T15:48:36.GMT",
+      "images" : {
+        "kirin02" : "http://kirinusa.beer/wp-content/uploads/2016/03/kirin-bottle-glass.png",
+        "kirin03" : "http://english.hitejinro.com/Imag/Bran/bran_beer_kiri/image.jpg"
+      },
+      "item" : "California Roll",
+      "price" : "155.00",
+      "req" : "",
+      "reqd" : "",
+      "special" : "n",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "unit" : "",
+      "visible" : "y"
+    },
+    "Fried Garlic Rice" : {
+      "dscr" : "ガーリックライス\nข้าวผัดกระเทียม",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Fried%20Garlic%20Rice.jpg",
+      "item" : "Fried Garlic Rice",
+      "price" : "",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T00:43:21.GMT"
+    },
+    "Fried Pork Cutlet" : {
+      "dep" : "Page",
+      "dscr" : "とんかつ\nหมูชุบแป้งทอด",
+      "group" : "Appetizers",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Fried%20Pork%20Cutlet.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Fried Pork Cutlet",
+      "price" : "135.00 ",
+      "sec" : "Default",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:18:42.GMT"
+    },
+    "Grilled Octopus Balls" : {
+      "dscr" : "たこ焼き\nทาโกะยากิ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Grilled%20Octopus%20Balls.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Grilled Octopus Balls",
+      "price" : "125.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:21:17.GMT"
+    },
+    "Grilled Wonton" : {
+      "dscr" : "餃子\nเกี๊ยวซ่า",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Grilled%20Wonton.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Grilled Wonton",
+      "price" : "77.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:25:12.GMT"
+    },
+    "Japanese Rice" : {
+      "dscr" : "御飯\nข้าวเปล่าญี่ปุ่น",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Japanese%20Rice.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Japanese Rice",
+      "price" : "",
+      "surcharge" : "0.01",
+      "tax" : "0.06",
+      "udate" : "2018.02.12T01:25:15.GMT"
+    },
+    "Kimchi" : {
+      "dscr" : "キムチ \n กิมจิ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/KImchi.jpg",
+      "item" : "Kimchi",
+      "price" : "16.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:25:19.GMT"
+    },
+    "Lab Flavoured Kar aage" : {
+      "dscr" : "ラーブ味から揚げ\n ไก่ทอดคาราอาเกะ 5 ชิ้น (ลาบ)",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Lab%20Flavoured%20Kar%20aage.jpg",
+      "item" : "Lab Flavoured Kar aage",
+      "price" : "69.00",
+      "req" : "Extra=Garlic:2.0,Onions:2.0;Spicy=Mild:2.0,Nuclear:2.0",
+      "reqd" : "Chicken:1.0,Nuclear:0.0",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:25:24.GMT"
+    },
+    "Miso Soup" : {
+      "dscr" : "味噌汁\nซุปมิโสะญี่ปุ่น",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Miso%20Soup.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Miso Soup",
+      "price" : "17.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:25:31.GMT"
+    },
+    "Salad" : {
+      "dscr" : "サラダ\nสลัดผัก",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Salad.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Salad",
+      "price" : "",
+      "surcharge" : "0.01",
+      "tax" : "0.06",
+      "udate" : "2018.02.12T01:25:34.GMT"
+    },
+    "Salmon Maki" : {
+      "dscr" : "サーモンマキ\nแซลมอนมากิ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Salmon%20Maki.jpg",
+      "images" : {
+        "Heineken" : "http://www.thebeerstore.ca/sites/default/files/styles/brand_hero/public/brand/hero/heineken.jpg?itok=bORtwyPr"
+      },
+      "item" : "Salmon Maki",
+      "price" : "209.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:25:37.GMT"
+    },
+    "Spicy Karaage" : {
+      "dscr" : "スパイシーから揚げ \n ไก่ทอดคาราอาเกะ 5 ชิ้น (สไปซี่)",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Appetizers/Spicy%20Karaage.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Spicy Karaage",
+      "price" : "69.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:25:43.GMT"
+    },
+    "Deep fried Squid" : {
+      "ds" : "Yayoi",
+      "dscr" : "イカのガーリックから揚げ",
+      "icon" : "",
+      "icond" : "2018.02.19T15:48:36.GMT",
+      "images" : {
+        "kirin02" : "http://kirinusa.beer/wp-content/uploads/2016/03/kirin-bottle-glass.png",
+        "kirin03" : "http://english.hitejinro.com/Imag/Bran/bran_beer_kiri/image.jpg"
+      },
+      "item" : "Deep fried Squid",
+      "price" : "130.00",
+      "req" : "",
+      "reqd" : "",
+      "special" : "n",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "unit" : "",
+      "visible" : "y"
+    },
+    "Japanese-style Pizza" : {
+      "ds" : "Yayoi",
+      "dscr" : "お好み焼き",
+      "icon" : "",
+      "icond" : "2018.02.19T15:48:36.GMT",
+      "images" : {
+        "kirin02" : "http://kirinusa.beer/wp-content/uploads/2016/03/kirin-bottle-glass.png",
+        "kirin03" : "http://english.hitejinro.com/Imag/Bran/bran_beer_kiri/image.jpg"
+      },
+      "item" : "Japanese-style Pizza",
+      "price" : "155.00",
+      "req" : "",
+      "reqd" : "",
+      "special" : "n",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "unit" : "",
+      "visible" : "y"
+    }
+  },
+  "Bento" : {
+    "Yayoi Chicky Bento" : {
+      "dscr" : "チキンステーキ弁当\nยาโยอิ ชิกกี้ เบนโตะ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Bento/Yayoi%20Chicky%20Bento.jpg",
+      "item" : "Yayoi Chicky Bento",
+      "price" : "195.00",
+      "req" : "",
+      "reqd" : "",
+      "special" : "n",
+      "surcharge" : "0.9",
+      "tax" : "8.0",
+      "udate" : "2018.02.13T12:34:32.GMT",
+      "unit" : "",
+      "visible" : "y"
+    },
+    "Yayoi Sakana (Fish) Bento" : {
+      "dscr" : "さかな弁当\nยาโยอิ ซากานะ เบนโตะ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Bento/Yayoi%20Sakana%20(Fish)%20Bento.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Yayoi Sakana (Fish) Bento",
+      "price" : "195.00",
+      "surcharge" : "0.01",
+      "tax" : "0.06",
+      "udate" : "2018.02.12T01:28:53.GMT"
+    }
+  },
+  "Donburi" : {
+    "Japanese Spicy Butajyu" : {
+      "dscr" : "ピリ辛焼き豚重\nข้าวหน้าหมูผัดเผ็ดซอสญี่ปุ่น",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Japanese%20Spicy%20Butajyu.jpg",
+      "images" : {
+        "kirin02" : "http://kirinusa.beer/wp-content/uploads/2016/03/kirin-bottle-glass.png",
+        "kirin03" : "http://english.hitejinro.com/Imag/Bran/bran_beer_kiri/image.jpg"
+      },
+      "item" : "Japanese Spicy Butajyu",
+      "price" : "135.00",
+      "reqd" : "",
+      "special" : "n",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.13T15:25:16.GMT",
+      "unit" : "",
+      "visible" : "y"
+    },
+    "Rice Topped with Chicken and Egg" : {
+      "dscr" : "親子丼\nข้าวราดหน้าไก่ใส่ใข่",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Rice%20Topped%20with%20Chicken%20and%20Egg.jpg",
+      "images" : {
+        "ghub" : "?001"
+      },
+      "item" : "Rice Topped with Chicken and Egg",
+      "price" : "135.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:29:07.GMT"
+    },
+    "Rice Topped with Fried Pork Cutlet and Egg" : {
+      "dscr" : "かつ丼\nข้าวราดหน้าหมูชุปแป้งทอด",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Rice%20Topped%20with%20Fried%20Pork%20Cutlet%20and%20Egg.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Rice Topped with Fried Pork Cutlet and Egg",
+      "price" : "158.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:29:10.GMT"
+    },
+    "Rice Topped with Sliced Beef" : {
+      "dscr" : "牛丼\nข้าวหน้าเนื้อ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Rice%20Topped%20with%20Sliced%20Beef.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Rice Topped with Sliced Beef",
+      "price" : "159.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:29:13.GMT"
+    },
+    "Rice Topped with Sliced Pork" : {
+      "dscr" : "豚丼\nข้าวหน้าหมู",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Rice%20Topped%20with%20Sliced%20Pork.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Rice Topped with Sliced Pork",
+      "price" : "145.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:29:17.GMT"
+    },
+    "Salmon Donburi" : {
+      "dscr" : "鮭の照り焼き丼\nแซลมอนทรงเครื่องดงบุริ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Salmon%20Donburi.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Salmon Donburi",
+      "price" : "185.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:29:21.GMT"
+    },
+    "Unaju Donburi" : {
+      "dscr" : "うな重\nอุนางิดงบุริ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Donburi/Unaju%20Donburi.jpg",
+      "item" : "Unaju Donburi",
+      "price" : "350.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:29:25.GMT"
+    }
+  },
+  "Noodles" : {
+    "Spicy Ramen Champion" : {
+      "dscr" : "カララーメンチャンピオン\nคะระ ราเม็งแชมป์เปี้ยน",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Noodles/Spicy%20Ramen%20Champion.jpg",
+      "item" : "Spicy Ramen Champion",
+      "price" : "155.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:45:28.GMT"
+    },
+    "Sukiyaki Pork Udon" : {
+      "dscr" : "豚肉うどん\nอุด้งหมูสุกี้ยากี้",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Noodles/Sukiyaki%20Pork%20Udon.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Sukiyaki Pork Udon",
+      "price" : "155.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:45:30.GMT"
+    },
+    "Yayoi Ramen Champion" : {
+      "dscr" : "ラーメン\nราเม็งแชมป์เปี้ยน",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Noodles/Yayoi%20Ramen%20Champion.jpg",
+      "item" : "Yayoi Ramen Champion",
+      "price" : "155.00",
+      "special" : "n",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.13T11:37:57.GMT",
+      "unit" : "",
+      "visible" : "y"
+    }
+  },
+  "Set Menu Fish" : {
+    "Mackerel" : {
+      "dscr" : "サバ塩焼き\nปลาซาบะย่างเกลือกระทะร้อน",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Grilled%20Mackerel%20Steak.jpg",
+      "item" : "Mackerel",
+      "price" : "199.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:06.GMT",
+      "req" : "Preparation=Grilled with Teriyaki Sauce:0.0,Grilled with Salt:0.0,Steak:0.0"
+    },
+    "Salmon" : {
+      "dscr" : "サーモン照り焼き\nปลาแซลมอนย่างซีอิ๊วกระทะร้อน",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Salmon%20with%20Teriyaki%20Sauce.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Salmon with Teriyaki Sauce",
+      "price" : "299.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:28.GMT",
+      "req" : "Preparation=Grilled with Teriyaki Sauce:0.0,Grilled with Salt:0.0,Steak:0.0"
+    }
+  },
+  "Set Menu Chicken" : {
+    "Namban Chicken" : {
+      "dscr" : "チキン南蛮\nไก่ทอดราดซอสนัมบัง",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Namban%20Chicken.jpg",
+      "item" : "Namban Chicken",
+      "price" : "185.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:20.GMT"
+    },
+    "Teriyaki Chicken" : {
+      "dscr" : "照焼きチキン \nไก่ทอดราดซอสนัมบัง",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Namban%20Chicken.jpg",
+      "item" : "Teriyaki Chicken",
+      "price" : "152.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:20.GMT"
+    }
+  },
+  "Set Menu Pork" : {
+    "Fried Pork Cutlet" : {
+      "dscr" : "とんかつ\nหมูชุบแป้งทอด",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Fried%20Pork%20Cutlet.jpg",
+      "item" : "Fried Pork Cutlet",
+      "price" : "155.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:03.GMT"
+    },
+    "Roasted Pork on Hot Plate" : {
+      "dscr" : "豚焼肉\nหมูย่างกระทะร้อน",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Roasted%20Pork%20on%20Hot%20Plate.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Roasted Pork on Hot Plate",
+      "price" : "139.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:24.GMT"
+    },
+    "Simmered Pork Cutlet in Miso Sauce" : {
+      "dscr" : "味噌かつ煮 \n หมูชุปแป้งทอดราดซอสมิโสะ",
+      "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Set_Menu/Simmered%20Pork%20Cutlet%20in%20Miso%20Sauce.jpg",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Simmered Pork Cutlet in Miso Sauce",
+      "price" : "155.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:32.GMT"
+    },
+    "Pork Sautéed with Kimchi" : {
+      "dscr" : "豚キムチ\nเสิร์ฟพร้อม",
+      "icon" : "",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Pork Sautéed with Kimchi",
+      "price" : "155.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:32.GMT"
+    },
+    "Japanese Curry, Rice, and Fried Pork Cutlet with Cheese Filling" : {
+      "dscr" : "チーズ入りポークメンチカツカレー ",
+      "icon" : "",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Japanese Curry, Rice, and Fried Pork Cutlet with Cheese Filling",
+      "price" : "215.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:32.GMT"
+    },
+    "Japanese Curry, Rice, and Fried Pork Cutlet" : {
+      "dscr" : "カツカレー",
+      "icon" : "",
+      "images" : {
+        "ghub" : "?"
+      },
+      "item" : "Japanese Curry, Rice, and Fried Pork Cutlet",
+      "price" : "185.00",
+      "surcharge" : "0.0",
+      "tax" : "0.0",
+      "udate" : "2018.02.12T01:46:32.GMT"
+    }
+  }
+}
